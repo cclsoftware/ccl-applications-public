@@ -1,2 +1,2 @@
-# ccl-tools-public
-CCL Cross-platform Framework Public Tools Repository (c) 2023 CCL Software Licensing GmbH
+# ccl-applications-public
+CCL Cross-platform Framework Public Applications Repository (c) 2024 CCL Software Licensing GmbH
